@@ -1,0 +1,56 @@
+{
+  "voice": "id-ID-ArdiNeural",
+  "rate": "+10%",
+  "pitch": "+0Hz",
+  "lines": [
+    {
+      "id": "line-01",
+      "kicker": "01",
+      "text": "Kamu tidak kekurangan motivasi. Kamu kekurangan aksi.",
+      "headline": ["KAMU TIDAK", "KEKURANGAN", "MOTIVASI"],
+      "emphasis": "Kamu kekurangan AKSI."
+    },
+    {
+      "id": "line-02",
+      "kicker": "02",
+      "text": "Setiap pagi kamu punya pilihan. Lanjut tidur, atau mulai bergerak.",
+      "headline": ["SETIAP PAGI", "ADA PILIHAN"],
+      "emphasis": "Lanjut tidur, atau mulai bergerak."
+    },
+    {
+      "id": "line-03",
+      "kicker": "03",
+      "text": "Disiplin bukan soal perasaan. Disiplin adalah keputusan yang kamu ulang setiap hari.",
+      "headline": ["DISIPLIN", "BUKAN PERASAAN"],
+      "emphasis": "Disiplin adalah keputusan yang diulang."
+    },
+    {
+      "id": "line-04",
+      "kicker": "04",
+      "text": "Kemajuan tidak lahir dari hari yang sempurna. Ia lahir dari hari biasa yang kamu kerjakan dengan sungguh-sungguh.",
+      "headline": ["KEMAJUAN", "LAHIR DARI", "HARI BIASA"],
+      "emphasis": "Yang dikerjakan dengan sungguh-sungguh."
+    },
+    {
+      "id": "line-05",
+      "kicker": "05",
+      "text": "Gagal bukan tanda berhenti. Gagal itu tanda kamu sedang mencoba.",
+      "headline": ["GAGAL BUKAN", "TANDA BERHENTI"],
+      "emphasis": "Itu tanda kamu sedang mencoba."
+    },
+    {
+      "id": "line-06",
+      "kicker": "06",
+      "text": "Satu langkah kecil hari ini lebih berharga dari rencana besar yang tak pernah dimulai.",
+      "headline": ["SATU LANGKAH", "KECIL HARI INI"],
+      "emphasis": "Lebih berharga dari rencana besar."
+    },
+    {
+      "id": "line-07",
+      "kicker": "07",
+      "text": "Mulai dari yang kecil. Mulai dari sekarang. Mulai, sebelum kamu merasa siap.",
+      "headline": ["MULAI", "SEBELUM", "SIAP"],
+      "emphasis": "Mulai dari sekarang."
+    }
+  ]
+}
